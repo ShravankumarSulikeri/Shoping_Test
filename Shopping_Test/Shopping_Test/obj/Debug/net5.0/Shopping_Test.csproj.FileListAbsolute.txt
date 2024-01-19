@@ -1,0 +1,16 @@
+C:\Users\ssulikeri\source\repos\Shopping_Test\Shopping_Test\bin\Debug\net5.0\Shopping_Test.exe
+C:\Users\ssulikeri\source\repos\Shopping_Test\Shopping_Test\bin\Debug\net5.0\Shopping_Test.deps.json
+C:\Users\ssulikeri\source\repos\Shopping_Test\Shopping_Test\bin\Debug\net5.0\Shopping_Test.runtimeconfig.json
+C:\Users\ssulikeri\source\repos\Shopping_Test\Shopping_Test\bin\Debug\net5.0\Shopping_Test.runtimeconfig.dev.json
+C:\Users\ssulikeri\source\repos\Shopping_Test\Shopping_Test\bin\Debug\net5.0\Shopping_Test.dll
+C:\Users\ssulikeri\source\repos\Shopping_Test\Shopping_Test\bin\Debug\net5.0\ref\Shopping_Test.dll
+C:\Users\ssulikeri\source\repos\Shopping_Test\Shopping_Test\bin\Debug\net5.0\Shopping_Test.pdb
+C:\Users\ssulikeri\source\repos\Shopping_Test\Shopping_Test\obj\Debug\net5.0\Shopping_Test.csproj.AssemblyReference.cache
+C:\Users\ssulikeri\source\repos\Shopping_Test\Shopping_Test\obj\Debug\net5.0\Shopping_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssulikeri\source\repos\Shopping_Test\Shopping_Test\obj\Debug\net5.0\Shopping_Test.AssemblyInfoInputs.cache
+C:\Users\ssulikeri\source\repos\Shopping_Test\Shopping_Test\obj\Debug\net5.0\Shopping_Test.AssemblyInfo.cs
+C:\Users\ssulikeri\source\repos\Shopping_Test\Shopping_Test\obj\Debug\net5.0\Shopping_Test.csproj.CoreCompileInputs.cache
+C:\Users\ssulikeri\source\repos\Shopping_Test\Shopping_Test\obj\Debug\net5.0\Shopping_Test.dll
+C:\Users\ssulikeri\source\repos\Shopping_Test\Shopping_Test\obj\Debug\net5.0\ref\Shopping_Test.dll
+C:\Users\ssulikeri\source\repos\Shopping_Test\Shopping_Test\obj\Debug\net5.0\Shopping_Test.pdb
+C:\Users\ssulikeri\source\repos\Shopping_Test\Shopping_Test\obj\Debug\net5.0\Shopping_Test.genruntimeconfig.cache
